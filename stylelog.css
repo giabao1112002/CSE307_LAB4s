@@ -97,16 +97,19 @@ div#layout {
 .item1 {
     border: 1px solid aqua;
     width: 70%;
-    height: 600px;
+    height: 500px;
     float: left;
     background-color: aqua;
+    margin-top: 10px;
     
 }
 
 .section {
+    padding-top: 100px;
     width: 80%;
     height: fit-content;
     color: black;
+    height: 500px;
 
 }
 
